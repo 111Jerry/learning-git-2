@@ -13,6 +13,5 @@ print("Liczby z zakresu od 1 do 100 podzielne przez 5 to:", numbers)
 cube = [number ** 3 for number in numbers]
 print(f"Liczby z listy wyżej podniesione do potęgi trzeciej to {cube}")
 
-"""
+
 print("Dodaję coś na próbę")
-"""

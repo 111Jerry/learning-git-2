@@ -14,4 +14,5 @@ cube = [number ** 3 for number in numbers]
 print(f"Liczby z listy wyżej podniesione do potęgi trzeciej to {cube}")
 
 print("Ala ma kota")
+print("Ala nie ma jednak kota")
 
